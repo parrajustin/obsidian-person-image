@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-person-image",
+	"name": "Person Image",
+	"version": "0.0.0",
+	"description": "Display a Profile picture from data uri when in reading mode",
+	"minAppVersion": "1.5.0",
+	"author": "Justin Parra",
+	"authorUrl": "https://github.com/parrajustin",
+	"isDesktopOnly": false
+}
