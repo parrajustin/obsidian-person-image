@@ -1,6 +1,6 @@
 {
     "name": "obsidian-person-image",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Display a Profile picture from data uri when in reading mode",
     "main": "main.js",
     "type": "module",

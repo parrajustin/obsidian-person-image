@@ -14,7 +14,7 @@ export default class PersonImagePlugin extends Plugin {
                 return;
             }
             const container = el.createDiv("Person-Image");
-            container.style.height = "105px";
+            container.style.height = "150px";
             container.style.width = "150px";
             container.style.backgroundColor = "pink";
 
